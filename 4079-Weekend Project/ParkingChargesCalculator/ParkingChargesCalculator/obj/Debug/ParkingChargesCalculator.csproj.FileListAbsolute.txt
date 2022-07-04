@@ -1,0 +1,6 @@
+C:\Users\Sami Sanghaira\Desktop\BootCamp\ParkingChargesCalculator\ParkingChargesCalculator\bin\Debug\ParkingChargesCalculator.exe.config
+C:\Users\Sami Sanghaira\Desktop\BootCamp\ParkingChargesCalculator\ParkingChargesCalculator\bin\Debug\ParkingChargesCalculator.exe
+C:\Users\Sami Sanghaira\Desktop\BootCamp\ParkingChargesCalculator\ParkingChargesCalculator\bin\Debug\ParkingChargesCalculator.pdb
+C:\Users\Sami Sanghaira\Desktop\BootCamp\ParkingChargesCalculator\ParkingChargesCalculator\obj\Debug\ParkingChargesCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Sami Sanghaira\Desktop\BootCamp\ParkingChargesCalculator\ParkingChargesCalculator\obj\Debug\ParkingChargesCalculator.exe
+C:\Users\Sami Sanghaira\Desktop\BootCamp\ParkingChargesCalculator\ParkingChargesCalculator\obj\Debug\ParkingChargesCalculator.pdb

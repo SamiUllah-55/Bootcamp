@@ -1,0 +1,6 @@
+C:\Users\Sami Sanghaira\Desktop\BootCamp\SalarySlip\SalarySlip\bin\Debug\SalarySlip.exe.config
+C:\Users\Sami Sanghaira\Desktop\BootCamp\SalarySlip\SalarySlip\bin\Debug\SalarySlip.exe
+C:\Users\Sami Sanghaira\Desktop\BootCamp\SalarySlip\SalarySlip\bin\Debug\SalarySlip.pdb
+C:\Users\Sami Sanghaira\Desktop\BootCamp\SalarySlip\SalarySlip\obj\Debug\SalarySlip.exe
+C:\Users\Sami Sanghaira\Desktop\BootCamp\SalarySlip\SalarySlip\obj\Debug\SalarySlip.pdb
+C:\Users\Sami Sanghaira\Desktop\BootCamp\SalarySlip\SalarySlip\obj\Debug\SalarySlip.csprojResolveAssemblyReference.cache
